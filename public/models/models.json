@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {
+      "file": "models/character.glb",
+      "scale": 1,
+      "yaw": 0
+    }
+  ],
+  "props": [],
+  "weapons": {
+    "smg": {
+      "type": "fbx",
+      "file": "models/uzi.fbx",
+      "tex": {
+        "map": "models/uzi_base.png",
+        "normal": "models/uzi_normal.png",
+        "orm": "models/uzi_orm.png"
+      },
+      "length": 0.5,
+      "yaw": -1.5708,
+      "off": [
+        0,
+        -0.01,
+        0.06
+      ]
+    },
+    "rl": {
+      "type": "obj",
+      "file": "models/rpg7.obj",
+      "length": 0.85,
+      "yaw": -1.5708,
+      "off": [
+        0,
+        0,
+        -0.05
+      ]
+    }
+  }
+}
