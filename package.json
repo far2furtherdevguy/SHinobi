@@ -1,0 +1,9 @@
+{
+  "name": "neon-arena",
+  "version": "3.0.0",
+  "description": "Neon Arena multiplayer server (1v1 and Battle Royale)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" },
+  "engines": { "node": ">=18" }
+}
